@@ -1,4 +1,5 @@
-Th3_Monster Tool 2.5 ☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ .
+Th3_Monster Tool 2.5 
+☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ .
 
                     ...
                    ;::::;
