@@ -1,6 +1,4 @@
-# Th3_Fighter-Bot-2.5
-Th3_Fighter Bot v2.5 👾 ☣ Website Vulnerability Scanner &amp; Auto Exploiter Bot ☣ .
-
+Th3_Fighter Bot v2.5 👾 , ☣ Website Vulnerability Scanner / Auto Exploiter Bot ☣ .
 
                     ...
                    ;::::;
