@@ -1,4 +1,4 @@
-Th3_Fighter Bot v2.5 👾 , ☣ Website Vulnerability Scanner / Auto Exploiter Bot ☣ .
+Th3_Monster Tool 2.5 ☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ .
 
                     ...
                    ;::::;
@@ -23,125 +23,14 @@ Th3_Fighter Bot v2.5 👾 , ☣ Website Vulnerability Scanner / Auto Exploiter B
          ::::::`:::::;'  /  /   `#
          
 
-For The Unknown Target : 
-
-#adfin(); 
-#usql();
-#elfind();
-#kcfind();
-#apachistrus();
-#pma();
-
-For The WordPress Target : 
-
-vers();
-getins(); 
-addblockblocker();
-worce();
-cubed();
-pith();
-satos();
-pinb();
-barc();
-bard();
-asrd(); 
-evol();
-acft(); 
-desg();
-wof();
-wof1();
-virald();
-viraldz();
-viraldzy();
-viraldzyx();
-viraldd();
-wof2();
-wof3(); 
-tst();
-learndash();
-wofind(); 
-mms();
-xxsav();
-xxsd();
-at1();
-at2();
-viral();
-jsor(); 
-wptema(); 
-blaze();
-catpro();
-xxcc(); 
-nineto(); 
-cherry();
-downloadsmanager();
-expadd();
-expaddd();
-formcraft();
-brainstorm();
-xav();
-izxc();
-con7(); 
-fuild();
-levoslideshow();
-vertical();
-carousel();
-superb();
-yass();
-homepage();
-ipage();
-bliss();
-xdata();
-powerzoomer();
-gravityforms();
-gravityformsb();
-revslider();
-getconfig();
-getcpconfig();
-showbiz();
-ads();
-slideshowpro();
-wpmobiledetector();
-wysija();
-inboundiomarketing();
-dzszoomsounds();
-reflexgallery();
-sexycontactform();
-realestate();
-wtffu();
-wpjm();
-phpeventcalendar();
-phpeventcalendars();
-synoptic();
-udesig();
-workf();
-Wpshop();
-wpinjection();
-adad();
-wplfd();
-wpbrute();
-
-For The Joomla Target : 
-
-versij(); 
-comjce();
-txrt();
-comedia();
-comfabrik();
-comfabi2();
-comfabrikdef2();
-comjb();
-comsjb();
-foxfind(); 
-foxcontact();
-fox2(); 
-comadsmanager();
-comblog();
-b2j();
-b22j();
-sexycontactform();
-comusers();
-comweblinks();
-mod_simplefileupload();
-comjwallpapers();
-jomlfd();
-joomlabrute();
+[1] - Auto CMS Detector .
+[2] - For The WordPress Vulns 
+Check Link : https://notepad.pw/jcyg4g1p
+[3] - For The Joomla Vulns 
+Check Link : https://notepad.pw/gfz1epyg
+[4] - For The Unknown Vulns 
+Check Link : https://notepad.pw/1gglpyes
+[5] - For The DruPal Vulns 
+Check Link : https://notepad.pw/6pp1gy2i
+[6] - For The PrestaShop Vulns 
+Check Link : https://notepad.pw/ybxjgpi1
